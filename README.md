@@ -1,6 +1,5 @@
-#Rogue Lineage KIKI Hub
-This is a script for the game Rogue Lineage on Roblox.
-**Features Of KIKI Hub**
+# Rogue Lineage KIKI Hub
+
 ```
 Main
 Healer edict (can show people health,npcs etc)
